@@ -7,7 +7,7 @@ function Hero(){
     <div className="hero">
         <div className="mask">
            
-           <video className="into-img" src="https://cdn.pixabay.com/video/2023/07/14/171558-845611823_tiny.mp4" autoPlay muted ></video>
+           <video className="into-img" src="https://cdn.pixabay.com/video/2023/07/14/171558-845611823_tiny.mp4" autoPlay muted></video>
         </div>
         <div className="content">
             <p>HI I'M Sai Kumar Kaicherla</p>

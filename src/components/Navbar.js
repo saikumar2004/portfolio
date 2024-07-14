@@ -26,14 +26,8 @@ function  Navbar(){
       <ul className={click?"nav-menu active":"nav-menu"}>
         
             <Link to="/home"><li>Home</li></Link>
-       
-        
-            <Link to="/project"><li>Project</li></Link>
-        
-      
             <Link to="/about"><li>About</li></Link>
-        
-        
+            <Link to="/project"><li>Project</li></Link>
             <Link to="/contact"><li>Contact</li></Link>
         
       </ul>
