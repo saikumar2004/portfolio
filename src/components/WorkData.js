@@ -6,7 +6,7 @@ const WorkData=[
         imgsrc:pro1,
         title:"New-App ",
         text:"Developed a News Website that displays live news updates. Users can search for any article using the integrated search bar. The website leverages updated news articles from the NEWS-API, ensuring real-time and accurate information.",
-        view:"",
+        view:"https://github.com/saikumar2004/News-app",
         source:"https://github.com/saikumar2004/News-app"
 
     },
@@ -14,7 +14,7 @@ const WorkData=[
         imgsrc:pro2,
         title:"Nutrient-Tracker-App",
         text:"The application features an intuitive interface that enables users to log their daily dietary intake, monitor calorie consumption, and track the quantity of food consumed. The app offers real-time feedback on nutrient levels, helping users make informed dietary choices and maintain a balanced diet.",
-        view:"",
+        view:"https://saikumar2004.github.io",
         source:"https://saikumar2004.github.io"
         
     },
