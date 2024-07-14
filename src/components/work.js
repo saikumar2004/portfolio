@@ -14,8 +14,10 @@ function Work(){
               imgsrc={val.imgsrc} 
               title={val.title}
               text={val.text}
+              tech={val.tech}
               view={val.view}
               source={val.source}
+
               />
             )
           })}
