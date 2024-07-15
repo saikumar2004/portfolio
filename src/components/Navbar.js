@@ -20,7 +20,7 @@ function  Navbar(){
     window.addEventListener("scroll",changeColor)
   return (
     <div className={color?"header header-bg":"header"}>
-      <Link to="/">
+      <Link to="/home">
       <h1>KSK</h1>
       </Link>
       <ul className={click?"nav-menu active":"nav-menu"}>
