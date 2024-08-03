@@ -32,6 +32,7 @@ function AboutContent(){
              <img src="https://github.blog/wp-content/uploads/2021/02/81721690-e2fb5d80-9445-11ea-8602-4b2294c964f3.png?fit=1200%2C630"alt=""/>
 
         </div>
+        
        </div>
     </div>
   );
