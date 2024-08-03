@@ -25,6 +25,7 @@ function AboutContent(){
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt=""/>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq15kdLZEWHPSQuhn3y4YqfX8cIBbcsA8FXw&s" alt=""/>
             <img src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png" alt=""/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt=""/>
             <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt=""/>
             <img src="https://ih1.redbubble.net/image.2083639299.4034/fposter,medium,wall_texture,product,750x1000.webp" alt=""/>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5H-6obfIxXzU4t99HTdXjYRD9KF7R_LRtI3iKqiZ-0emR9hQSycnSTkt7iO2W5RWOmPE&usqp=CAU" alt=""/>
